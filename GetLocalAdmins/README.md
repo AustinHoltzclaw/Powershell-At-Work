@@ -1,4 +1,4 @@
-How to use
+# How to use
 
 You can edit which OUs you want to hit in the AdminCheck.ps1 file.
 This script will turn off WinRM on all machines once finished. Please make sure you are not hitting anything where you need WinRM to be enabled.
